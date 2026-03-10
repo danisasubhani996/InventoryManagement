@@ -41,7 +41,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
 ```
-git clone https://github.com/ravi-aluri/InventoryManagement.git
+git clone  [https://github.com/danisasubhani996/InventoryManagement.git]
 ```
 
 2. Navigate to the project directory:
