@@ -69,5 +69,5 @@ npm start
 
 For support or feedback:
 **Ravi Aluri**   
-Email: [ravialuri2005@gmail.com](mailto:ravialuri2005@gmail.com)   
-GitHub: [https://github.com/ravi-aluri](https://github.com/ravi-aluri)
+Email: [danisasubhani@gmail.com](mailto:danisasubhani@gmail.com)   
+GitHub: [https://github.com/danisasubhani996](https://github.com/danisasubhani996)
