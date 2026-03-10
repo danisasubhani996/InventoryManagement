@@ -68,6 +68,6 @@ npm start
 ## 📧 Contact
 
 For support or feedback:
-**Ravi Aluri**   
+**HATHIBELAGAL DANISA SUBHANI**   
 Email: [danisasubhani@gmail.com](mailto:danisasubhani@gmail.com)   
 GitHub: [https://github.com/danisasubhani996](https://github.com/danisasubhani996)
